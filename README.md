@@ -44,7 +44,7 @@
 
 
 - 💻 Futuros Projetos em andamento...
-- 🔗 [Veja todos os meus projetos no GitHub](https://github.com/Willgnner-Santos?tab=repositories)
+- 🔗 
 
 ---
 
