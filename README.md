@@ -31,9 +31,6 @@
 
 ## 📊 Resumo do Perfil GitHub
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Willgnner-Santos&theme=2077" alt="Resumo GitHub"/>
-</p>
 
 ---
 
