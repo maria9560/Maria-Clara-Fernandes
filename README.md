@@ -9,7 +9,7 @@
 
 - 🎓 Estudante de nível superior em Inteligência Artificial (SENAI Fatesg)
 - 💻 Programadora em Jogos Digitais(Nível Técnico)
-- 🤖 Ex-competidora dos campeonatos FIRST Tech Challenge(FTC) e Olimpiada Basileira de Robótica(OBR)
+- 🤖 Ex-competidora dos campeonatos FIRST Tech Challenge(FTC) e Olimpiada Brasileira de Robótica(OBR)
 
 
 ---
