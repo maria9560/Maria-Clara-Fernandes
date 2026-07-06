@@ -10,9 +10,14 @@
 - 🎓 Estudante de nível superior em Inteligência Artificial (SENAI Fatesg)
 - 💻 Programadora em Jogos Digitais(Nível Técnico)
 - 🤖 Ex-competidora dos campeonatos FIRST Tech Challenge(FTC) e Olimpiada Brasileira de Robótica(OBR)
-
+- 📈 Engenheira de Dados em formação, apaixonada por transformar dados brutos em insights estratégicos. Atualmente, foco no desenvolvimento de soluções completas de Business Intelligence (BI), modelagem de dados e pipelines automatizados.
 
 ---
+### 🧠 No que estou focada atualmente:
+- 🏗️ **Engenharia de Dados & ETL:** Construção de pipelines robustos com PySpark, Python e Power Query, automatizando fluxos cumulativos de dados.
+- 📊 **Business Intelligence:** Modelagem de dados complexos (DAX avançado) e criação de dashboards executivos e automatizados no Power BI.
+- 🤖 **Machine Learning:** Desenvolvimento de modelos preditivos utilizando frameworks como Scikit-learn, XGBoost e CatBoost.
+- 🗄️ **Bancos de Dados:** Manipulação, otimização de queries e mineração de dados em SQL (PostgreSQL, Oracle e BigQuery).
 
 ## 🚀 Tecnologias e Ferramentas
 
@@ -35,12 +40,7 @@
   <!-- Business Intelligence e Visualização -->
  
 
----
 
-## 📊 Resumo do Perfil GitHub
-
-
----
 
 ## 📂 Projetos Destacados
 
