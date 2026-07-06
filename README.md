@@ -38,17 +38,17 @@
 
 
 - 💻 Futuros Projetos em andamento...
-- 🔗https://piscisafe-mga46phwegq5hki8ey4cc4.streamlit.app/
-- 🔗 
+- 🔗https://piscisafe-mga46phwegq5hki8ey4cc4.streamlit.app/  - PISCISAFE
+- 🔗 https://6a4bdceaca4cf0e197abb7ed--regal-salmiakki-7de56b.netlify.app/   - ANÁLISE DA INTERFERÊNCIA SOCIOESPACIAL SOBRE RESULTADO DO ENEM
 
 ---
 
 ## 📬 Entre em Contato
 
 <p>
-  <a href="https://www.linkedin.com/in/willgnner-ferreira-santos-20bb6a17a"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/maria-clara-fernandes-802b21351/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mcfwork07@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/mkk._.fernandes/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://wa.me/5562999926125" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---
