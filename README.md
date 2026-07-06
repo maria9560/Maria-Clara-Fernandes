@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
   
+ <p> 
 
   <!-- Inteligência Artificial e Ciência de Dados -->
   
